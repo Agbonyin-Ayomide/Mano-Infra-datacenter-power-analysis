@@ -3,7 +3,7 @@ Datacenter Power &amp; Cooling Performance Analysis — PUE, WUE, Anomaly Detect
 
 ## Overview
 End-to-end data analysis project simulating a hyperscale 
-datacenter environment — directly aligned with xAI 
+datacenter environment directly aligned with xAI 
 Physical Infrastructure Data Analyst requirements.
 
 ## Key Results
@@ -28,10 +28,10 @@ Physical Infrastructure Data Analyst requirements.
 | `anomalies.csv` | Flagged anomaly hours |
 
 ## Dashboard Preview
-![Dashboard](Mano dashboard 1.png)
+Mano dashboard 1.png and Mano Data Center Dashborad1. pbix
 
 ## Key Metrics Tracked
-- **PUE** — Power Usage Effectiveness
+- PUE — Power Usage Effectiveness
 - **WUE** — Water Usage Effectiveness  
 - **DCiE** — Data Center Infrastructure Efficiency
 - **Anomaly Detection** — PUE > 1.8 threshold
